@@ -1,0 +1,27 @@
+emp:
+  info:
+    company:
+      location: Hyderabad
+      size: 50000
+      title: MR Tech
+    id: 10
+    id-details:
+      aadharNo: 1234
+      licenseNo: 1125
+      panNo: 9938
+    name: Maruthi
+    phone-numbers:
+    - 9676589647
+    - 7893220868
+    - 9398495492
+    skills:
+    - java
+    - jee
+    - orm
+    team-members:
+    - dhoni
+    - sachin
+    - kohli
+spring:
+  application:
+    name: 01_BasicApp

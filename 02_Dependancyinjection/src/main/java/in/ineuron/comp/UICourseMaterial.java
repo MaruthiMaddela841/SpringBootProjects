@@ -1,0 +1,28 @@
+package in.ineuron.comp;
+
+import org.springframework.stereotype.Component;
+
+@Component(value="uiCourse")
+public class UICourseMaterial implements ICourse {
+	
+	static {
+		System.out.println("UICourseMaterial .class file is loading...");
+	}
+	
+	public UICourseMaterial() {
+		System.out.println("UICourseMaterial zero param constrcutor...");
+	}
+
+	@Override
+	public String courseContent() {
+		System.out.println("UICourseMaterial.courseContent()");
+		return "1. HTML 2. CSS 3. JS";
+	}
+
+	@Override
+	public Float price() {
+		System.out.println("UICourseMaterial.price()");
+		return 450.0f;
+	}
+
+}
