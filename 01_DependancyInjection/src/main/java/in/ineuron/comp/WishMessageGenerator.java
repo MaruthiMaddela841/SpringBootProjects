@@ -12,7 +12,7 @@ public class WishMessageGenerator {
 	private LocalDateTime date;
 	
 	static {
-		System.out.println("WishMessageGenerator .class file is loading...");
+		System.out.println("WishMessageGenerator .class file is loading....");
 	}
 	
 	public WishMessageGenerator() {
