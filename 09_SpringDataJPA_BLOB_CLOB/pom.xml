@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>INeuron</groupId>
-	<artifactId>01_SpringDataJPA_DAO</artifactId>
+	<artifactId>09_SpringDataJPA_BLOB_CLOB</artifactId>
 	<version>1.0</version>
-	<name>01_SpringDataJPA_DAO</name>
+	<name>09_SpringDataJPA_BLOB_CLOB</name>
 	<description>Demo project for Spring Boot JPA</description>
 	<properties>
 		<java.version>17</java.version>

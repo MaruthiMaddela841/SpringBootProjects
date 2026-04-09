@@ -10,10 +10,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ineuron</groupId>
-	<artifactId>Spring_MVC_CRM_CRUD_App</artifactId>
+	<artifactId>Spring_MVC_CRM_CRUD_Thymleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Spring_MVC_CRM_CRUD_App</name>
+	<name>Spring_MVC_CRM_CRUD_Thymleaf</name>
 	<description>CRM CRUD App</description>
 	<properties>
 		<java.version>17</java.version>
