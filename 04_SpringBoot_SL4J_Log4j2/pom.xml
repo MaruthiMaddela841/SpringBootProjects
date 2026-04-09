@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>INeuron</groupId>
-	<artifactId>03_SpringBootLog4j</artifactId>
+	<artifactId>04_SpringBoot_SL4J_Log4j2</artifactId>
 	<version>1.0</version>
-	<name>03_SpringBootLog4j</name>
+	<name>04_SpringBoot_SL4J_Log4j2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
