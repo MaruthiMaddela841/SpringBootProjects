@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ineuron</groupId>
-	<artifactId>09_DAOProject_XML_JDBCTemplateDirectMethods</artifactId>
+	<artifactId>01_DAOProject_XML_JDBCTemplateDirectMethods</artifactId>
 	<version>1.0</version>
 
-	<name>09_DAOProject_XML_JDBCTemplateDirectMethods</name>
+	<name>01_DAOProject_XML_JDBCTemplateDirectMethods</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
